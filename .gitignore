@@ -1,0 +1,23 @@
+# PDS build products
+/compile/
+/synthesize/
+/device_map/
+/place_route/
+/report_timing/
+/constraint_check/
+/generate_bitstream/
+/log/
+/logbackup/
+/impl.tcl
+/multiseed_summary.csv
+
+# Temporary files and local licenses
+/xsim.dir/
+/.Xil/
+*.log
+*.lock
+*.jou
+*.wdb
+*.tmp
+*.bak
+*.lic
